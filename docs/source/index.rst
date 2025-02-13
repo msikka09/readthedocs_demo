@@ -4,6 +4,7 @@ Welcome to GRACE User Handbook documentation!
 GRACE:    Gravity Recovery and Climate Experiment
 GRACE-FO: Gravity Recovery and Climate Experiment Follow-on
 
+Level-3 Data Product User Handbook 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
